@@ -8,7 +8,7 @@ const Footer = () => {
             <div className='flex flex-col md:flex-row gap-4 py-8'>
                 <div className='h-20 w-90 bg-white'>
                     <img className='h-20 w-auto object-cover' src={logo} alt="logo" />
-                    <p className='bg-white text-black'>Trailmaker believes that every student has the potential to study abroad for better study and career.</p>
+                    <p className='bg-white text-black p-4'>Trailmaker believes that every student has the potential to study abroad for better study and career.</p>
                 </div>
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4'>
                     <div className='flex flex-col gap-1'>

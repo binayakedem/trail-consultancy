@@ -18,7 +18,7 @@ const AboutConsultancy = () => {
                     </p>
                     <div className='flex flex-row justify-start gap-2 items-center
                     '>
-                        <FaHandPointRight color='green' />
+                        <FaHandPointRight className='cursor-pointer ' color='green' />
 
                     <h1 className='my-2 font-bold text-xl text-green-600'>Vision and Mission</h1>
                     </div>
